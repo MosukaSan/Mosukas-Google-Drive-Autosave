@@ -78,12 +78,8 @@ def main():
         "file": None
     }
 
-    try:
-        GDS.authenticate()
-        GDS.init_service()
-    except:
-        print("An error ocurred")
-        exit()
+    GDS.authenticate()
+    GDS.init_service()
 
     print("Login Sucessful!\n")
     terminal_clear()

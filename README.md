@@ -2,7 +2,9 @@
 ![](https://img.shields.io/badge/license-GPLv3-orange.svg)
 ![](https://tokei.rs/b1/github/MosukaSan/mosukas-google-drive-autosave?category=code)
 
-
+<p align=center>
+    <img src=icon.png height=200px>
+</p>
 A script that automatically saves your projects on google drive after pressing ctrl+s or after a specific time range.
 
 - [Mosuka's Google Drive Autosave](#mosukas-google-drive-autosave)
